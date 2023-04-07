@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+A tech-savvy with a Ph.D. in Chemical Engineering, I am passionate about using machine learning and data science to create revolutionary solutions in healthcare, energy, and sustainability. 
+
+Whenever I wear my software engineer hat, I am exploring new ways to innovate and push the boundaries of what's possible, whether I'm developing deep learning frameworks or analyzing large datasets. 
+
+When I'm not diving headfirst into a new project, I enjoy exploring uncharted trails and experimenting with homemade sweets in the kitchen.
+
+If you're looking for a collaborator who can bring a fresh perspective and a wealth of technical expertise to your project, look no further!
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
