@@ -2,7 +2,7 @@
 
 **Noushin is here!**
 
-A tech-savvy with a Ph.D. in Chemical Engineering, I am passionate about using machine learning and data science to create revolutionary solutions in healthcare, energy, and sustainability. I am exploring new ways to innovate and push the boundaries of what's possible, whether I'm developing deep learning frameworks or analyzing large datasets. 
+A tech-savvy with a Ph.D. in Computational Chemical Engineering, I am passionate about using machine learning and data science to create revolutionary solutions in healthcare, energy, and sustainability. I am exploring new ways to innovate and push the boundaries of what's possible, whether I'm developing deep learning frameworks or analyzing large datasets. 
 
 If you're looking for a collaborator who can bring a fresh perspective and a wealth of technical expertise to your project, look no further!
 
