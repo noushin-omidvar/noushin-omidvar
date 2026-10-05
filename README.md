@@ -2,11 +2,9 @@
 
 **Noushin is here!**
 
-I’m an Applied scientist who loves teaching machines to understand molecules. My work brings together AI and chemistry to imagine new materials — from graph neural networks that learn bonding patterns to generative models that design better electrolytes for the next generation of batteries.
+I’m an Applied scientist who loves teaching machines to understand molecules. My work brings together AI and chemistry to imagine new materials — from graph neural networks that learn bonding patterns to models that design better formulations for the next generation of materials.
 
 I’ve traveled through both academia (Ph.D. in Chemical Engineering at Virginia Tech) and industry (Aionics Inc.), always chasing the same goal: using machine learning as a tool for discovery. For me, the exciting part isn’t just building models — it’s uncovering the hidden rules of nature that those models reveal.
-
-When I’m not coding or analyzing molecules, I enjoy mentoring, collaborating across disciplines, and asking big “what if?” questions that push science forward.
 
 Areas of interest: AI for Science & Engineering, Cheminformatics & Molecular Modeling, Optimization & Generative Design, Explainable & Interpretable AI
 If you're looking for a collaborator who can bring a fresh perspective and a wealth of technical expertise to your project, look no further!
